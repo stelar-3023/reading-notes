@@ -1,6 +1,7 @@
  ## Answer
 
     1. What is Markdown?
+    - *Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents*
     2. Why do we use Markdown?
     3. What symbol will create a heading in Markdown?
        - How many do you need to create the largest heading?
