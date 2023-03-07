@@ -1,13 +1,5 @@
 # Reading Notes
 
-## Code 102 - Intro to Software Development
-
-## Code 201 - Foundations of Software Development
-
-## Code 301 - Intermediate Software Development
-
-## Code 401 - Advanced Software Development
-
 ## My Reading Journal
 
 ![profilepic](https://user-images.githubusercontent.com/39433933/223421052-06c25b73-c6aa-4594-b6fb-a34c1465b495.jpg)
