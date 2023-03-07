@@ -1,5 +1,7 @@
 ## My Reading Journal
 
+![profilepic](https://user-images.githubusercontent.com/39433933/223421052-06c25b73-c6aa-4594-b6fb-a34c1465b495.jpg)
+
 Hi, my name is Steve.  I am a Technical Account Manager for Five9.  I enjoy coding, and working out in my spare time.
 
 https://github.com/stelar-3023
