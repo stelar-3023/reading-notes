@@ -6,5 +6,5 @@
 4. How many do you need to create the largest heading? *One hash tag creates the largest heading.*
 5. How many do you need to create the smallest heading? *Six hash tags will create the smallest heading.*
 6. When making text bold or italicized for emphasis, it is best practice to use which symbol? *Markdown applications don’t agree on how to handle underscores in the middle of a word. For compatibility, use asterisks to bold the middle of a word for emphasis.*
-7. How do you create a link with Markdown?To create a link, enclose the link text in brackets (e.g., [ESPN]) and then follow it immediately with the URL in parentheses (e.g., (https://espn.com)).
+7. How do you create a link with Markdown? *To create a link, enclose the link text in brackets (e.g., [ESPN]) and then follow it immediately with the URL in parentheses (e.g., (https://espn.com)).*
 8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? *Symbols to create an unordered list are (minus, plus, or asterisk)*
