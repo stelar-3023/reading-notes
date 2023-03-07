@@ -14,7 +14,7 @@
 
 Hi, my name is Steve.  I am a Technical Account Manager for Five9.  I enjoy coding, and working out in my spare time.
 
-https://github.com/stelar-3023
+Link to ![my github portfolio](https://github.com/stelar-3023)
 
 #### What growth mindset means to me is...
 
