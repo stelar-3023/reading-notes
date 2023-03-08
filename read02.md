@@ -2,7 +2,7 @@
 
 What are four important features to look for in a text editor? **Code completion, syntax highlighting, themes(to reduce eyestrain and fatigue, emmet - plugin that allows for highspeed coding, and the ability to add extensions.**
 What do the following commands do?
-- pwd - **Tells you the current directory you're in (parent working directory).**
+- pwd - **Tells you the current directory you're in (print working directory).**
 - ls - **List the contents of the current directory.**
 - cd - **Change directory (usually followed by the folder name or 2 periods, which backs out 1 level or directory.**
 - mkdir - **Creates a folder.**
